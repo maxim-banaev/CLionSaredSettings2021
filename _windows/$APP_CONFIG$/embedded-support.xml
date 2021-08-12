@@ -1,0 +1,6 @@
+<application>
+  <component name="EmbeddedDevelopment">
+    <option name="openOcdLocation" value="C:\Users\maxim.banaev\openocd\openocd-0.10.0\bin\openocd.exe" />
+    <option name="stm32CubeMXLocation" value="C:\Program Files (x86)\STMicroelectronics\STM32Cube\STM32CubeMX\STM32CubeMX.exe" />
+  </component>
+</application>

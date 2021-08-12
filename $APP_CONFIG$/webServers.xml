@@ -1,0 +1,51 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8c512abe-a82f-4bc6-a1ff-86fc5ae96e19" name="ubuntu_20.04 (8c512abe-a82f-4bc6-a1ff-86fc5ae96e19)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="d96b8010-3e59-42c9-9bdd-1de0b2f6d8ba" sshConfig="mbanaev@localhost:2222 password" />
+      </webServer>
+      <webServer id="0b63e289-52ab-433e-83cb-34a2867fa300" name="Docker Ubuntu (0b63e289-52ab-433e-83cb-34a2867fa300)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2242" sshConfigId="eb16ac4f-fd7c-4be1-947b-62dcb6d66d13" sshConfig="root@localhost:2242 password" />
+      </webServer>
+      <webServer id="760d71e4-fdba-4464-b71d-006c28857115" name="debian_10 (760d71e4-fdba-4464-b71d-006c28857115)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2223" sshConfigId="6ea63ab4-4571-4e45-8f2a-f57095455a72" sshConfig="mbanaev@localhost:2223 password" />
+      </webServer>
+      <webServer id="1bbedadf-11d6-4078-9180-d1c86c793b8d" name="Remote Ubuntu (1bbedadf-11d6-4078-9180-d1c86c793b8d)" url="http:///">
+        <fileTransfer accessType="SFTP" host="172.31.140.109" port="22" sshConfigId="968df3ac-f73e-417c-91f4-898c0fa0752b" sshConfig="maxim@172.31.140.109:22 password" />
+      </webServer>
+      <webServer id="2f36e438-a0e3-4c30-80f3-c55082768258" name="Docker Centos (2f36e438-a0e3-4c30-80f3-c55082768258)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2242" sshConfigId="eb16ac4f-fd7c-4be1-947b-62dcb6d66d13" sshConfig="root@localhost:2242 password" />
+      </webServer>
+      <webServer id="cf78e68c-7eca-4151-864f-a913c3c8294f" name="Remote GDB Server (cf78e68c-7eca-4151-864f-a913c3c8294f)" url="http:///">
+        <fileTransfer accessType="SFTP" host="172.31.140.109" port="22" sshConfigId="968df3ac-f73e-417c-91f4-898c0fa0752b" sshConfig="maxim@172.31.140.109:22 password" />
+      </webServer>
+      <webServer id="55be7f5f-70df-4f5c-9f09-d3b8bf22f2fd" name="ubuntu_20.04 (clang) (55be7f5f-70df-4f5c-9f09-d3b8bf22f2fd)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="d96b8010-3e59-42c9-9bdd-1de0b2f6d8ba" sshConfig="mbanaev@localhost:2222 password" />
+      </webServer>
+      <webServer id="bbefb456-93a8-441d-adcd-1211b225838b" name="Docker Alpine (bbefb456-93a8-441d-adcd-1211b225838b)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2242" sshConfigId="eb16ac4f-fd7c-4be1-947b-62dcb6d66d13" sshConfig="root@localhost:2242 password" />
+      </webServer>
+      <webServer id="da73ee2f-b31c-49f2-a2b1-48e610c6024c" name="ubuntu_20.04 (da73ee2f-b31c-49f2-a2b1-48e610c6024c)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="d96b8010-3e59-42c9-9bdd-1de0b2f6d8ba" sshConfig="mbanaev@localhost:2222 password" />
+      </webServer>
+      <webServer id="a93217c1-b997-44d4-9b6e-2f5366216c64" name="ubuntu_20.04 (clang) (a93217c1-b997-44d4-9b6e-2f5366216c64)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="d96b8010-3e59-42c9-9bdd-1de0b2f6d8ba" sshConfig="mbanaev@localhost:2222 password" />
+      </webServer>
+      <webServer id="3b88d109-ba95-42e5-a88a-a4ab36d91337" name="debian_10 (3b88d109-ba95-42e5-a88a-a4ab36d91337)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2223" sshConfigId="6ea63ab4-4571-4e45-8f2a-f57095455a72" sshConfig="mbanaev@localhost:2223 password" />
+      </webServer>
+      <webServer id="c757f764-5c42-4879-84d1-d8cafd955cc5" name="Remote Ubuntu (c757f764-5c42-4879-84d1-d8cafd955cc5)" url="http:///">
+        <fileTransfer accessType="SFTP" host="172.31.140.109" port="22" sshConfigId="968df3ac-f73e-417c-91f4-898c0fa0752b" sshConfig="maxim@172.31.140.109:22 password" />
+      </webServer>
+      <webServer id="1af35cb6-e779-4fa6-836e-4f0f659eb208" name="Docker Ubuntu (1af35cb6-e779-4fa6-836e-4f0f659eb208)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2242" sshConfigId="eb16ac4f-fd7c-4be1-947b-62dcb6d66d13" sshConfig="root@localhost:2242 password" />
+      </webServer>
+      <webServer id="604e49f9-0e43-4ca6-80e8-810a5cec945b" name="Docker Centos (604e49f9-0e43-4ca6-80e8-810a5cec945b)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2242" sshConfigId="eb16ac4f-fd7c-4be1-947b-62dcb6d66d13" sshConfig="root@localhost:2242 password" />
+      </webServer>
+      <webServer id="95d63486-b610-4b89-a05a-cb6fe8e9c010" name="Docker Alpine (95d63486-b610-4b89-a05a-cb6fe8e9c010)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2242" sshConfigId="eb16ac4f-fd7c-4be1-947b-62dcb6d66d13" sshConfig="root@localhost:2242 password" />
+      </webServer>
+    </option>
+  </component>
+</application>

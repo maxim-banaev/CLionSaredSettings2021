@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '...\Code_Analysis\Clang_Tidy_cppcoreguidelines.cpp'" />
+    <option name="defaultScopeName" value="File '...\Code_Analysis\Clang_Tidy_cppcoreguidelines.cpp'" />
+    <option name="SEARCH_SCOPE" value="File '...\Code_Analysis\Clang_Tidy_cppcoreguidelines.cpp'" />
+  </component>
+</application>

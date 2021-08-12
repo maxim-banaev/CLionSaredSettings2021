@@ -1,0 +1,10 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="localhost" id="d96b8010-3e59-42c9-9bdd-1de0b2f6d8ba" port="2222" nameFormat="DESCRIPTIVE" username="mbanaev" />
+      <sshConfig authType="PASSWORD" host="localhost" id="eb16ac4f-fd7c-4be1-947b-62dcb6d66d13" port="2242" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="localhost" id="6ea63ab4-4571-4e45-8f2a-f57095455a72" port="2223" nameFormat="DESCRIPTIVE" username="mbanaev" />
+      <sshConfig authType="PASSWORD" host="172.31.140.109" id="968df3ac-f73e-417c-91f4-898c0fa0752b" port="22" nameFormat="DESCRIPTIVE" username="maxim" />
+    </configs>
+  </component>
+</application>

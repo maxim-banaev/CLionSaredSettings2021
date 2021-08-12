@@ -1,0 +1,6 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="oc.clangd.namehints.construct.expr" value="false" />
+    <option id="oc.clangd.namehints.macro.expr" value="false" />
+  </component>
+</application>

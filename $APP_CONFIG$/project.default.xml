@@ -1,0 +1,76 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="CMakeSettings">
+        <configurations>
+          <configuration PROFILE_NAME="Debug-Visual Studio amd64" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio amd64" ENABLED="true" />
+        </configurations>
+      </component>
+      <component name="ClangdSettings">
+        <option name="clangTidyViaClangd" value="false" />
+        <option name="navigationViaClangd" value="false" />
+      </component>
+      <component name="CoverageOptionsProvider">
+        <option name="myAddOrReplace" value="0" />
+        <option name="myActivateViewOnRun" value="false" />
+      </component>
+      <component name="GithubDefaultAccount">
+        <option name="defaultAccountId" value="c942a674-97f5-4316-a31f-4c44d2c297bd" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" value="Default" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
+        <version value="1.0" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>C/C++</id>
+              </State>
+              <State>
+                <id>Data flow analysisC/C++</id>
+              </State>
+              <State>
+                <id>FunctionsC/C++</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>FunctionsC/C++</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7" project-jdk-type="Python SDK" />
+      <component name="PropertiesComponent">
+        <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+        <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+        <property name="nodejs.jest.jest_package" value="" />
+        <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="js.build_tools.grunt">
+          <node-interpreter value="project" />
+          <envs />
+          <method v="2" />
+        </configuration>
+        <configuration default="true" type="js.build_tools.gulp">
+          <node-interpreter>project</node-interpreter>
+          <node-options />
+          <gulpfile />
+          <tasks />
+          <arguments />
+          <envs />
+          <method v="2" />
+        </configuration>
+      </component>
+    </defaultProject>
+  </component>
+</application>
